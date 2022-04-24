@@ -15,7 +15,7 @@
     let css = document.createElement("link");
     css.rel = "stylesheet";
     css.type = "text/css";
-    css.href = "https://github.com/wdpd/StackOverflowFilters/raw/main/terminal.css";
+    css.href = "https://wdpd.github.io/StackOverflowFilters/terminal.css";
     document.head.prepend(css);
 
     document.body.classList.add("theme-custom", "theme-terminal");
